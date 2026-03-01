@@ -6,6 +6,8 @@ Atividade feita na faculdade, conversor básico de número decimal para número 
 ## 🚀 Como executar
 
 ```bash
+# Clone o projeto
+git clone https://github.com/LuzYaga/calcBin.git
 
 # Entre na pasta
 cd src
