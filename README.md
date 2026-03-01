@@ -10,6 +10,7 @@ Atividade feita na faculdade, conversor básico de número decimal para número 
 git clone https://github.com/LuzYaga/calcBin.git
 
 # Entre na pasta
+cd calcBin
 cd src
 
 # Compile
